@@ -1,0 +1,6 @@
+@LeaveAuthAPI_HostAddress = http://localhost:5073
+
+GET {{LeaveAuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
